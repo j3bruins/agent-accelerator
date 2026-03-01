@@ -16,11 +16,11 @@ export const HackathonAward = () => {
           <span className="text-emerald-500 font-semibold"> 2nd place</span> for Best AI Agent Tool
           in the Solana AI Hackathon powered by SendAI.
         </p>
-        <div className="mt-4 w-full max-w-3xl overflow-hidden rounded-xl border border-border/50 shadow-2xl shadow-emerald-500/10">
+        <div className="mt-4 w-full max-w-md">
           <img
             src={hackathonImage}
             alt="Agent Accelerator winning 2nd place at the Solana AI Hackathon 2025 Agent Token Tooling Track"
-            className="w-full h-auto"
+            className="w-full h-auto drop-shadow-[0_0_30px_rgba(16,185,129,0.2)]"
             loading="lazy"
           />
         </div>
