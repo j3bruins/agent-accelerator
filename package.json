@@ -47,7 +47,7 @@
     "@supabase/auth-helpers-react": "^0.5.0",
     "@supabase/auth-ui-react": "^0.4.7",
     "@supabase/auth-ui-shared": "^0.1.8",
-    "@supabase/supabase-js": "^2.47.10",
+    "@supabase/supabase-js": "^2.98.0",
     "@tanstack/react-query": "^5.56.2",
     "@tsparticles/engine": "^3.7.1",
     "@tsparticles/react": "^3.0.0",
